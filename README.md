@@ -1,13 +1,16 @@
-# flutter_greeting_application
-Flutter app that displays a dynamic greeting based on the user's name.
+# first_task_greeting_card_app
 
-# Greeting Card App
+A new Flutter project.
 
-This is a simple Flutter application that allows users to enter their name and receive a personalized greeting. The app consists of a single screen with a text field for entering a name, a button to show the greeting, and a message that updates dynamically when the user presses the button.
+## Getting Started
 
-## Features
+This project is a starting point for a Flutter application.
 
-- A text input field for the user to enter their name.
-- A button labeled "Show Greeting" to display a personalized greeting.
-- Dynamic greeting message that says "Hello, [User's Name]!".
-- Input validation to check if the text field is empty and displays a toast notification if it is.
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
