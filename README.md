@@ -1,16 +1,36 @@
-# first_task_greeting_card_app
+# 🎉 Greeting Card App  
 
-A new Flutter project.
+A simple Flutter project where you enter a name, and the app generates a personalized greeting message for that person. 📝✨  
 
-## Getting Started
+## 🚀 Features  
+- 🖊️ Enter any name  
+- 🎁 Get a customized greeting instantly  
+- 📱 Simple and clean Flutter UI  
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack  
+- **Framework:** Flutter  
+- **Language:** Dart  
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Demo  
+_Add a screenshot or GIF of your app here to showcase how it looks._  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🏁 Getting Started  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a starting point for a Flutter application.  
+
+### Prerequisites  
+Make sure you have Flutter installed. [Get Flutter](https://docs.flutter.dev/get-started/install)  
+
+### Run Locally  
+```bash
+# Clone the repository
+git clone https://github.com/your-username/first_task_greeting_card_app.git  
+
+# Navigate to the project folder
+cd first_task_greeting_card_app  
+
+# Get dependencies
+flutter pub get  
+
+# Run the app
+flutter run  
