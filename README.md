@@ -11,9 +11,6 @@ A simple Flutter project where you enter a name, and the app generates a persona
 - **Framework:** Flutter  
 - **Language:** Dart  
 
-## 📸 Demo  
-_Add a screenshot or GIF of your app here to showcase how it looks._  
-
 ## 🏁 Getting Started  
 
 This project is a starting point for a Flutter application.  
@@ -34,3 +31,4 @@ flutter pub get
 
 # Run the app
 flutter run  
+
